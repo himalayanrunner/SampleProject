@@ -1,2 +1,2 @@
 # SampleProject
-SampleProject for training
+SampleProject for training ok
